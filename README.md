@@ -1,6 +1,6 @@
 # PowerBI-Cambio climático y seguridad alimentaria: posición de Argentina en relación al resto de Latinoamérica y el Caribe
 
-Este proyecto es un dashboard interactivo que evalua la relación entre emisiones de CO2, el consumo energético, el grado de desarrollo económico y la seguridad alimentaria en países de latinoamérica. Este trabajo fue creado en Power BI. Analiza las relaciones entre variables región y país.
+Este proyecto es un dashboard interactivo que evalua la relación entre emisiones de CO2, el consumo energético, el grado de desarrollo económico y la seguridad alimentaria en países de latinoamérica. Este trabajo fue creado en Power BI como parte de la evaluación final del curso Data Analytics de INGENIAS de Fundación YPF. 
 
 ## 📊 Características
 - KPIs clave (prevalencia de desnutrición, consumo energético, emisiones de CO2, superficie agrícola, PBI per cápita).
