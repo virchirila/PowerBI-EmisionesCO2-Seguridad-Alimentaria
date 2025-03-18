@@ -14,4 +14,11 @@ Este proyecto es un dashboard interactivo que evalua la relación entre emisione
 - Fuentes:
         - World Bank: https://databank.worldbank.org/source/environment-social-and-governance?preview=on
         - FAO: https://www.fao.org/faostat/es/#data/FS
+## Vista
+![1](./s1.png)
+![2](./s2.jpg)
+![3](./s3.jpg)
+![4](./s4.jpg)
+![5](./s5.jpg)
+![6](./s6.jpg)
 ---
